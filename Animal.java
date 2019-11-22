@@ -1,8 +1,13 @@
 package com.company;
-
-public class Animal {
-
-    public void eats(String name){
-        System.out.println(name+" eats");
+ class Animal {
+    private String name;
+     void eats(){
+         System.out.println(name+" eats");
     }
-}
+    void sound(){System.out.println("sound...");
+    }
+
+     void setName(String name) {
+         this.name = name;
+     }
+ }
