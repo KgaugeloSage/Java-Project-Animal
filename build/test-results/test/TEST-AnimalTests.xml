@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnimalTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-12-12T11:06:23" hostname="sage-ThinkCentre-M73" time="0.072">
+  <properties/>
+  <testcase name="TestDogEats()" classname="AnimalTests" time="0.041"/>
+  <testcase name="TestCatSound()" classname="AnimalTests" time="0.003"/>
+  <testcase name="TestDogSound()" classname="AnimalTests" time="0.016"/>
+  <testcase name="TestCatEats()" classname="AnimalTests" time="0.005"/>
+  <system-out><![CDATA[Does dog eat food
+Does cat Meow
+Does dog Bark
+Does cat eat food
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
